@@ -1,7 +1,6 @@
 # usage
 
-```deneme,
-deneme``
+```
 `from color import colors`
 
 `print(colors.bg.blue,"print",colors.reset)`
@@ -12,6 +11,6 @@ deneme``
 
 `print(colors.bold,"print4",colors.reset)`
 
-`print(colors.reverse,"print5",colors.reset)`
+`print(colors.reverse,"print5",colors.reset)```
 
 
