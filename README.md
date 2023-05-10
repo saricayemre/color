@@ -1,7 +1,5 @@
 # usage
 
-![](https://github.com/saricayemre/color/blob/main/ss.PNG)
-
 ```python
 from color import colors
 
@@ -13,8 +11,9 @@ print(colors.underline,"print3",colors.reset)
 
 print(colors.bold,"print4",colors.reset)
 
-print(colors.reverse,"print5",colors.reset)```
-
+print(colors.reverse,"print5",colors.reset)
+```
+![](https://github.com/saricayemre/color/blob/main/ss.PNG)
 
 
 
