@@ -1,4 +1,7 @@
 # usage
+
+```deneme,
+deneme``
 `from color import colors`
 
 `print(colors.bg.blue,"print",colors.reset)`
