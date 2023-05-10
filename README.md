@@ -1,6 +1,6 @@
 # usage
 
-```
+```python
 from color import colors
 
 print(colors.bg.blue,"print",colors.reset)
